@@ -1,0 +1,18 @@
+[
+    {
+        "catId": 1,
+        "name": "Mùa xuân"
+    },
+    {
+        "catId": 2,
+        "name": "Mùa hạ"
+    },
+    {
+        "catId": 3,
+        "name": "Mùa thu"
+    },
+    {
+        "catId": 4,
+        "name": "Mùa đong"
+    }
+]
